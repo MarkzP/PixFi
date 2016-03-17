@@ -3,6 +3,7 @@
  * PixFi - simple esp8266 based WiFi bridge for PX4 and derivatives
  * By Marc Paquette  marc @^ dacsystemes.com
  *
+ * Inspired by mavesp8266 (https://github.com/dogmaphobic/mavesp8266)
  * Compiled with Arduino 1.6.7 & esp8266 Core 2.1.0 (Stable) https://github.com/esp8266/Arduino
  *
  * This code is released under GPL v3.0: https://gnu.org/licenses/gpl-3.0.txt
